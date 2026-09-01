@@ -63,7 +63,7 @@ Pivot Tables were created to analyze:
 * Attendance status by department
   <img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/911c940d-bf0c-4638-83fa-e081ac90df1b" />
 
- Employee by department
+* Employee by department
   <img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/98620e5d-5581-41e3-8d93-d831545e665d" />
 
 * Attendance  by shift
