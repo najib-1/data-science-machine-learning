@@ -136,15 +136,7 @@ The analysis revealed several important observations from the employee attendanc
 
 ---
 
-## 📂 Project Structure
 
-```text
-Employee-Attendance-Analysis/
-│
-├── Employee_Attendance_Analysis.xlsx
-│
-└── README.md
-```
 
 ### Excel Workbook Sheets
 
