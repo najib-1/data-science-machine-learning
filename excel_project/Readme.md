@@ -60,17 +60,23 @@ Several Excel features were used to analyze the cleaned attendance data.
 
 Pivot Tables were created to analyze:
 
-* Attendance status by department
-  <img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/911c940d-bf0c-4638-83fa-e081ac90df1b" />
+Pivot Tables were created to analyze the following employee attendance patterns:
 
-* Employee by department
-  <img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/98620e5d-5581-41e3-8d93-d831545e665d" />
+1. Attendance Status by Department
 
-* Attendance  by shift
-  <img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/95ffb4a1-fcac-4fd3-827c-49880852a0bb" />
+<img width="752" height="452" alt="Attendance Status by Department" src="https://github.com/user-attachments/assets/911c940d-bf0c-4638-83fa-e081ac90df1b" />
 
-* Attendance Status Overall
- <img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/e92c56e7-7b4d-4ac0-8386-5e9f492aef3b" />
+2. Employees by Department
+
+<img width="752" height="452" alt="Employees by Department" src="https://github.com/user-attachments/assets/98620e5d-5581-41e3-8d93-d831545e665d" />
+
+3. Attendance by Shift
+
+<img width="752" height="452" alt="Attendance by Shift" src="https://github.com/user-attachments/assets/95ffb4a1-fcac-4fd3-827c-49880852a0bb" />
+
+4. Overall Attendance Status
+
+<img width="752" height="452" alt="Overall Attendance Status" src="https://github.com/user-attachments/assets/e92c56e7-7b4d-4ac0-8386-5e9f492aef3b" />
 
 
 
