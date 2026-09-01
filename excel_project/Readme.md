@@ -58,25 +58,44 @@ Several Excel features were used to analyze the cleaned attendance data.
 
 ### Pivot Tables
 
-Pivot Tables were created to analyze:
+### 📊 Pivot Tables
 
 Pivot Tables were created to analyze the following employee attendance patterns:
 
-1. Attendance Status by Department
+#### 1. Attendance Status by Department
 
 <img width="752" height="452" alt="Attendance Status by Department" src="https://github.com/user-attachments/assets/911c940d-bf0c-4638-83fa-e081ac90df1b" />
 
-2. Employees by Department
+**Interpretation:**
+The Pivot Table shows the distribution of attendance statuses across different departments. **IT has the highest number of attendance records**, with Present being the dominant attendance status. Other departments, including Operations, Finance, Sales, Administration, and HR, also show Present as the most common status. The table also highlights differences in Late and Absent records between departments, which can help identify departments that may require closer attendance monitoring.
+
+---
+
+#### 2. Employees by Department
 
 <img width="752" height="452" alt="Employees by Department" src="https://github.com/user-attachments/assets/98620e5d-5581-41e3-8d93-d831545e665d" />
 
-3. Attendance by Shift
+**Interpretation:**
+The Pivot Table shows the number of employee attendance records by department. **IT has the largest number of records**, followed by Operations and Finance, while HR has the smallest number of records. This indicates that IT represents the largest department in the analyzed attendance dataset, whereas HR represents the smallest.
+
+---
+
+#### 3. Attendance by Shift
 
 <img width="752" height="452" alt="Attendance by Shift" src="https://github.com/user-attachments/assets/95ffb4a1-fcac-4fd3-827c-49880852a0bb" />
 
-4. Overall Attendance Status
+**Interpretation:**
+The Pivot Table compares attendance records between the **Morning and Evening shifts**. The Morning shift has considerably more attendance records than the Evening shift. This suggests that most of the attendance records in the dataset are associated with the Morning shift. The comparison can also help management evaluate attendance patterns across different working shifts.
+
+---
+
+#### 4. Overall Attendance Status
 
 <img width="752" height="452" alt="Overall Attendance Status" src="https://github.com/user-attachments/assets/e92c56e7-7b4d-4ac0-8386-5e9f492aef3b" />
+
+**Interpretation:**
+The overall attendance analysis shows that **Present is the most common attendance status**, indicating that the majority of recorded attendance entries represent employees who were present. **Late** is the next significant category, followed by Remote and Absent. This suggests that punctuality is a more noticeable attendance issue than complete absence in the dataset.
+
 
 
 
