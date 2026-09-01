@@ -60,11 +60,19 @@ Several Excel features were used to analyze the cleaned attendance data.
 
 Pivot Tables were created to analyze:
 
-* Attendance status
-* Department attendance
-* Shift attendance
-* Employee attendance patterns
-* Attendance distribution
+* Attendance status by department
+  <img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/911c940d-bf0c-4638-83fa-e081ac90df1b" />
+
+ Employee by department
+  <img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/98620e5d-5581-41e3-8d93-d831545e665d" />
+
+* Attendance  by shift
+  <img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/95ffb4a1-fcac-4fd3-827c-49880852a0bb" />
+
+* Attendance Status Overall
+ <img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/e92c56e7-7b4d-4ac0-8386-5e9f492aef3b" />
+
+
 
 ### Dashboard
 
