@@ -83,7 +83,7 @@ The chart shows the number of employee attendance records by department. IT has 
 
 #### 3. Attendance by Shift
 
-<img width="764" height="452" alt="image" src="https://github.com/user-attachments/assets/405a0243-6838-4c03-bcc3-fbeb8aba9feb" />
+<img width="765" height="452" alt="image" src="https://github.com/user-attachments/assets/c0566877-e2b6-4a63-9c49-bf7335bd5849" />
 
 
 
