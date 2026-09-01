@@ -64,37 +64,41 @@ Pivot Tables were created to analyze the following employee attendance patterns:
 
 #### 1. Attendance Status by Department
 
-<img width="752" height="452" alt="Attendance Status by Department" src="https://github.com/user-attachments/assets/911c940d-bf0c-4638-83fa-e081ac90df1b" />
+<img width="765" height="452" alt="image" src="https://github.com/user-attachments/assets/c6156aa4-a821-4dd8-b0d8-d693fde60f1f" />
+
 
 **Interpretation:**
-The Pivot Table shows the distribution of attendance statuses across different departments. **IT has the highest number of attendance records**, with Present being the dominant attendance status. Other departments, including Operations, Finance, Sales, Administration, and HR, also show Present as the most common status. The table also highlights differences in Late and Absent records between departments, which can help identify departments that may require closer attendance monitoring.
+The chart shows the distribution of attendance statuses across the six departments. IT has the highest number of attendance records (76), including 49 Present, 13 Late, 7 Absent, and 7 Remote records. HR has the lowest number of records (20). Overall, Present is the dominant attendance status across all departments, while IT and Sales have relatively higher numbers of Absent and Late records.
 
 ---
 
 #### 2. Employees by Department
 
-<img width="752" height="452" alt="Employees by Department" src="https://github.com/user-attachments/assets/98620e5d-5581-41e3-8d93-d831545e665d" />
+<img width="765" height="452" alt="image" src="https://github.com/user-attachments/assets/f947e697-6f56-4293-ba9f-b2853490b6a9" />
+
 
 **Interpretation:**
-The Pivot Table shows the number of employee attendance records by department. **IT has the largest number of records**, followed by Operations and Finance, while HR has the smallest number of records. This indicates that IT represents the largest department in the analyzed attendance dataset, whereas HR represents the smallest.
+The chart shows the number of employee attendance records by department. IT has the highest number with 76 records, followed by Operations with 51 and Finance with 45. Sales has 39 records, Administration has 30, and HR has the lowest with 20 records. This indicates that IT represents the largest department in the analyzed dataset.
 
 ---
 
 #### 3. Attendance by Shift
 
-<img width="752" height="452" alt="Attendance by Shift" src="https://github.com/user-attachments/assets/95ffb4a1-fcac-4fd3-827c-49880852a0bb" />
+<img width="764" height="452" alt="image" src="https://github.com/user-attachments/assets/405a0243-6838-4c03-bcc3-fbeb8aba9feb" />
+
 
 **Interpretation:**
-The Pivot Table compares attendance records between the **Morning and Evening shifts**. The Morning shift has considerably more attendance records than the Evening shift. This suggests that most of the attendance records in the dataset are associated with the Morning shift. The comparison can also help management evaluate attendance patterns across different working shifts.
+The chart compares attendance status between the Morning and Evening shifts. The Morning shift has 173 records, compared with 88 records for the Evening shift. The Morning shift also has the highest number of Present records (110) and Late records (29), while the Evening shift has 58 Present and 16 Late records. This shows that the majority of attendance records belong to the Morning shift.
 
 ---
 
 #### 4. Overall Attendance Status
 
-<img width="752" height="452" alt="Overall Attendance Status" src="https://github.com/user-attachments/assets/e92c56e7-7b4d-4ac0-8386-5e9f492aef3b" />
+<img width="765" height="452" alt="image" src="https://github.com/user-attachments/assets/0553b128-ffc2-439a-9ee3-703a6f41744e" />
+
 
 **Interpretation:**
-The overall attendance analysis shows that **Present is the most common attendance status**, indicating that the majority of recorded attendance entries represent employees who were present. **Late** is the next significant category, followed by Remote and Absent. This suggests that punctuality is a more noticeable attendance issue than complete absence in the dataset.
+The overall attendance chart summarizes the attendance status of all 261 records. Present is the largest category with 168 records (64.4%), followed by Late with 45 records (17.2%), Remote with 27 records (10.3%), and Absent with 21 records (8.0%). This indicates that the majority of attendance records represent employees who were present, although late attendance is significantly higher than absence.
 
 
 
