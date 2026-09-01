@@ -193,8 +193,6 @@ The main objectives of this project were to:
 
 ---
 
-## 👨‍💻 Author
 
-**Abdinajib**
 
 This project was created as part of a practical **Data Analysis using Excel** project.
